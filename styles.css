@@ -7,8 +7,12 @@ body {
 h1 {
   color: #0072ce;
 }
+
 h1 {
-  text-align: center;
-  border-bottom: 3px solid #0072ce;
-  padding-bottom: 10px;
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, sans-serif;
+    color: #3498db;
+    text-shadow: 3px 3px 5px #aaa;
+    letter-spacing: 3px;
 }
