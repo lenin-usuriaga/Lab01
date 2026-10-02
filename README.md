@@ -3,4 +3,4 @@
 Proyecto del Laboratorio 01 del curso.
 ## Autor
 
-Tu Nombre - Laboratorio 01
+LENIN USURIAGA MORENO - Laboratorio 01
